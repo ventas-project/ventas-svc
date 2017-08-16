@@ -1,0 +1,12 @@
+{
+  "description": "A full Bitcoin node build with Bitcore",
+  "repository": "https://github.com/user/project",
+  "license": "MIT",
+  "readme": "README.md",
+  "dependencies": {
+    "bitcore-lib": "http://git.etra.kr/bitpay/bitcore-lib/archive/master.tar.gz",
+    "bitcore-node": "http://git.etra.kr/bitpay/bitcore-node/archive/master.tar.gz",
+    "insight-api": "http://git.etra.kr/bitpay/insight-api/archive/master.tar.gz",
+    "insight-ui": "http://git.etra.kr/bitpay/insight/archive/master.tar.gz"
+  }
+}
