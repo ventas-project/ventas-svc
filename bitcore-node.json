@@ -8,13 +8,17 @@
         "web"
     ],
     "servicesConfig": {
+        "insight-ui": {
+            "routePrefix": "/"
+
+        },
         "bitcoind": {
             "connect": [{
                 "rpchost": "127.0.0.1",
                 "rpcport": 13102,
                 "rpcuser": "1234567890",
                 "rpcpassword": "1234567890",
-                "zmqpubrawtx": "tcp://127.0.0.1:28332"
+                "zmqpubrawtx": "tcp://127.0.0.1:13191"
             }]
         }
     }
