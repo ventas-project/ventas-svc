@@ -1,3 +1,6 @@
+--- pm2 start pm2.yml
+--- pm2 start pm2.yml --watch
+--- 
 apps:
   - script   : server.js
     name     : ventas-svc
