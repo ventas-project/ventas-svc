@@ -1,7 +1,7 @@
 {
     "apps": [{
         "name": "insight-ven",
-        "script": "start.js",
+        "script": "server.js",
         "watch": true,
         "exec_interpreter": "node@6.11.4"
     }]
