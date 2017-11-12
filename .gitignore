@@ -2,4 +2,3 @@ data
 node_modules
 package-lock.json
 pids/insight.pid
-bitcore-node.json
